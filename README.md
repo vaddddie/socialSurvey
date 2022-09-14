@@ -17,7 +17,7 @@ cd socialSurvey
 
 ```
 pip install -r requirements.txt
-python main.py
+python main.py -q *Question*
 ```
 
 5. Congratulations
