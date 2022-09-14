@@ -4,8 +4,8 @@ ____
 
 ## Установка на Windows
 
-1. Установите Python версии не ниже 3.6, скачав установщик с [https://www.python.org/downloads/](официального сайта).
-2. Установите git для Windows, скачав его [https://git-scm.com/download/win](отсюда).
+1. Установите Python версии не ниже 3.6, скачав установщик с [официального сайта](https://www.python.org/downloads/).
+2. Установите git для Windows, скачав его [отсюда](https://git-scm.com/download/win).
 3. Клонируйте репозиторий при помощи git и перейдите в папку.
 
 ```
