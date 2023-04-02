@@ -1,4 +1,4 @@
-# socialSurvey :black_square_button:
+# Social survey :black_square_button:
 
 ____
 
